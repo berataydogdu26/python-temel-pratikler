@@ -16,9 +16,3 @@ Bu depo, Python öğrenim sürecimde geliştirdiğim 3 farklı komut satırı uy
 - **Teknolojiler:** Dictionaries (Sözlükler), Kimlik Doğrulama Mantığı
 - **İşlev:** Kullanıcı adı ve şifre verilerini eşleştirerek güvenli giriş simülasyonu sağlar.
 
-## 🚀 Çalıştırma
-
-İlgili script'i çalıştırmak için terminale şu komutu yazabilirsiniz:
-
-```bash
-python dosya_adi.py
